@@ -1,0 +1,10 @@
+include 'trend-backup'
+include 'trend-gateway'
+include 'trend-imgproc'
+include 'trend-inv'
+include 'trend-pricecal'
+include 'trend-registoryserv'
+include 'trend-trending'
+include 'trend-userservice'
+
+
